@@ -78,3 +78,5 @@ To login the user and get the auth token you can use:
 ```
 POST     /api/v1/users/login
 ```
+## Demo
+https://easy-shop-server-555.herokuapp.com
