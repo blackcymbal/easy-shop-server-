@@ -80,3 +80,10 @@ POST     /api/v1/users/login
 ```
 ## Demo
 https://easy-shop-server-555.herokuapp.com
+
+## Languages & tools
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
+* [Mongoose](https://mongoosejs.com/)
+* [Multer](https://www.npmjs.com/package/multer)
+
