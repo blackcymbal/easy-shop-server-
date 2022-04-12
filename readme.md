@@ -1,6 +1,5 @@
 # E-Commerce Node.js Backend API
 
-[TOC]
 
 ## Introduction
 This repository is the code representation for the udemy course "MERN Stack E-Commerce Mobile App: React Native, Redux, Expo"
